@@ -1,6 +1,8 @@
 # sketch-batch-png
 
-Use this tool to export entire pages of one or more sketch files into PNGs.
+**Batch Export of Sketch Pages**
+
+Use this tool to export entire pages of one or more sketch files into PNGs (one PNG per page).
 All pages will be exported, except any pages named Symbols. The page title will be used for the PNG filename, and will automatically override existing files with the same name. (If you have a "Page 1" in multiple sketch files, you will need to rename them to get multiple PNG exports.)
 
 ## To install
