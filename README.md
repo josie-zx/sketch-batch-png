@@ -7,7 +7,7 @@ All pages will be exported, except any pages named Symbols. The page title will 
 
 ## To set up
 
-[Download as ZIP}(archive/master.zip) or clone this repo to your computer.
+[Download as ZIP](archive/master.zip) or clone this repo to your computer.
 
 In Finder, go to `Go > Go to Folder…` and type in `~/Library/Services/`. Then copy the `Sketch Batch to PNG.workflow` file into that folder.
 
